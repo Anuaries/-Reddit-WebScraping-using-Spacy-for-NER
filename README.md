@@ -1,2 +1,2 @@
-# Reddit-WebScraping-using-API
-To scrape the posts from reddit using API
+# Reddit-WebScraping-using-Spacy for NER
+
